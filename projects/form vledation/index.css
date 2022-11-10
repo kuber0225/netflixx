@@ -1,0 +1,38 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(91, 106, 247);
+}
+h1{
+     color: white;
+     margin-left: 5%;
+     font-size: 38px;
+}
+input{
+   
+    width: 60%;
+    padding: 10px 20px ;
+    outline-color: black;
+    border: none;
+    outline: none;  margin: 20px 0 ;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+}
+input[type=text]:focus {
+    background-color: rgb(255, 255, 255);
+  }
+
+button{
+    line-height: 34px;
+    padding: 0 30px;
+    background: #9b59b6;
+    color: white;
+    border: 2px solid #ecf0f1;
+    outline: none;
+    border-radius: 5px;
+    text-transform: uppercase;
+    cursor: pointer;
+      margin-left: 10%;
+
+
+} 

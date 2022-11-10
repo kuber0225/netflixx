@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    background-color: #d2dbdd;
+}
+
+.heading_style{
+    padding: 30px 0;
+    text-align: center;
+    font-family: "Raleway", "sans-self"; 
+    text-transform: uppercase;
+    font-size: 13px;
+    letter-spacing: 2px;
+    font-weight: 500;
+    color: #868686;
+    background-color: #fff;
+    font-size: 1.5rem;
+    margin-bottom: 30px;
+
+}
+.slot_inner{
+    text-align: center; 
+}
+.card{
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0, 1);
+    background-color: rgb(255, 0, 0);
+    width: 21.25%;
+    border-radius: 12px;
+    border-color: black;
+    box-shadow: 0px 13px 10px -7px rgba(0, 0, 0, 0.1);
+    margin-left: 40%;
+    margin-bottom: 10%
+}
+  

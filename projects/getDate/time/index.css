@@ -1,0 +1,36 @@
+
+* {
+   
+    padding: 0;
+    margin: 0;
+    background-color: #ffffff;
+}
+
+.click{
+    margin-left: 40%;
+    margin-top: 10%;
+
+    
+} 
+button{
+    padding: 15px 20px;
+    background: #9b59b6;
+    color: #ffff;
+    border: 2px solid #ecf0f1;
+    outline: none;
+    border-radius: 5px;
+    text-transform: uppercase;
+     cursor: pointer;  
+    
+}
+.heading{
+    margin-left: 4%;
+    font-size: 30px;
+
+}
+.ht{
+text-align: center;
+font-size: 50px;
+text-decoration: underline;
+margin-top: 1%;
+}

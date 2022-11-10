@@ -1,0 +1,19 @@
+body { margin: 0; padding: 0; box-sizing: border-box;}
+
+.heading{
+  text-align: center;
+  font-weight: bold;
+  text-transform: capitalize;
+  color: #dd2929;
+  text-shadow: 0px 2px 4px #93d6d6;
+  margin: 70px 0px;
+}
+.img{
+display: flex;
+justify-content: center;
+
+}
+.img img{
+height: 400px;
+width: 350px;
+}
